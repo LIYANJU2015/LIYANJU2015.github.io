@@ -29,13 +29,7 @@
 		"package_name": "com.allmusic.freemusicdownloader.downloadmusic.godownload",
 		"title": "Mp3 Music Download \u0026 Free Music Downloader",
 		"weight": 70
-	}, {
-		"description": "Free Music Download & No annoying ads, Download and Play free music whenever you want.",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnhtdXNpYy5qZXRtdXNpY2Rvd25sb2FkZXJfaWNvbl8xNTc4OTY0OTIzXzA0NA/icon.png?w=130&fakeurl=1",
-		"package_name": "com.xmusic.jetmusicdownloader",
-		"title": "Music Downloader - Online Music, Free Mp3 Download",
-		"weight": 70
-	}, {
+	},  {
 		"description": "Free music download app, Mp3 music downloader free All song downloader",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLmZyZWVtdXNpYy5tdXNpY2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5hbGxtdXNpY2Zhc3Rlcl9pY29uXzE1Nzg1NDkzMTZfMDA5/icon.png?w=130&fakeurl=1",
 		"package_name": "com.freemusic.musicdownloader.downloadmusic.allmusicfaster",
