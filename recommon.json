@@ -47,11 +47,5 @@
 		"package_name": "com.freemusic.musicdownloader.downloadmusic.allmusicfaster",
 		"title": "Free Music Downloader – Mp3 Music Download",
 		"weight": 60
-	}, {
-		"description": "Mp3 music downloader free All song downloader, Free music download app",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm1wM2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5tdXNpY2Rvd25sb2FkYWxsX2ljb25fMTU3ODIyNjQ0MF8wMDk/icon.png?w=130&fakeurl=1",
-		"package_name": "com.mp3downloader.downloadmusic.musicdownloadall",
-		"title": "Free Music Downloader & Download MP3 Song",
-		"weight": 60
 	}]
 }
