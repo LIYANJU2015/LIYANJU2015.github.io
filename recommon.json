@@ -24,18 +24,6 @@
 		"title": "Download YouTube Video Player",
 		"weight": 90
 	}, {
-		"description": "Free Music Downloader，search unlimited free music mp3, listen to and download to your phone",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnBvcHVsYXJtdXNpYy5tdXNpY2Rvd25sb2FkLm11c2ljZG93bmxvYWRlci5kb3dubG9hZG1wM19pY29uXzE1NzQxNzIxMTNfMDQ0/icon.png?w=170&fakeurl=1",
-		"package_name": "com.popularmusic.musicdownload.musicdownloader.downloadmp3",
-		"title": "Download Mp3 Music - Free Music Downloader",
-		"weight": 60
-	}, {
-		"description": "Free music download app, Mp3 music downloader free All song downloader",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLmZyZWVtdXNpYy5tdXNpY2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5hbGxtdXNpY2Zhc3Rlcl9pY29uXzE1Nzg1NDkzMTZfMDA5/icon.png?w=130&fakeurl=1",
-		"package_name": "com.freemusic.musicdownloader.downloadmusic.allmusicfaster",
-		"title": "Free Music Downloader – Mp3 Music Download",
-		"weight": 60
-	}, {
 		"description": "Free music download app, Mp3 music downloader free All song downloader",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQubXAzZG93bmxvYWQubXVzaWN0b19pY29uXzE1ODUzMjA0OTVfMDkx/icon.png?w=340&fakeurl=1",
 		"package_name": "com.musicdownload.mp3download.musicto",
