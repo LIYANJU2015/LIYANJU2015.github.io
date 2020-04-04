@@ -1,9 +1,9 @@
 {
 	"force": 1,
-	"name": "",
-	"des": "",
-	"package_name": "",
-	"icon": "",
+	"name": "New Download Music App",
+	"des": "The app will not be maintained in the future. Please download the latest app. There are fewer advertisements, more music resources and better experience",
+	"package_name": "com.musicdownload.mp3download.musicto",
+	"icon": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQubXAzZG93bmxvYWQubXVzaWN0b19pY29uXzE1ODUzMjA0OTVfMDkx/icon.png?w=340&fakeurl=1",
 	"no_ct": "jp_ru_in",
 	"all_ct": "",
 	"second_ct": "",
