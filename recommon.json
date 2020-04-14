@@ -29,5 +29,11 @@
 		"package_name": "com.musicdownload.mp3download.musicto",
 		"title": "Music Downloader - Free Online Music Download",
 		"weight": 120
+	}, {
+		"description": "Free music download app, Mp3 music downloader free All song downloader",
+		"icon_url": "https://image.winudf.com/p/aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1pieGs0VXVjRjZKNDctUFhyVUZOQ091NHdIZW80dzJwUlBEQnhHZGZrUF9ubE90STYtR3l2akh2MXBlQTc5NVBfZTQ9dzE3MA?k=037a4f608104fc4e78ab86e3b770d9ea5ea2638e&.png",
+		"package_name": "com.musictwo.musicdownload.musicone",
+		"title": "Download Mp3 Music – Free Music Downloader",
+		"weight": 120
 	}]
 }
