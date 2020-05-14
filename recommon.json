@@ -41,5 +41,11 @@
 		"package_name": "com.musicplayer.mp3player.musicbox.musicto",
 		"title": "Free Music Player - Mp3 Player, Themes, Equalizer",
 		"weight": 190
+	}, {
+		"description": "This music player has unlimited pop songs, offline music. Download it now!",
+		"icon_url": "https://image.winudf.com/p/aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1dmZUswa0ZBVGlnVERvcEJhSWEtZWRIaUFLQXl6Q004a0lTZW41T0wyWmx0eDFhUTUzb0hqTHZKaG5SWXdZNllJaTNzPXcxNzA?k=889c49d81ba1d7880ab0747e21b949715ec9d577&.png",
+		"package_name": "com.musicplayer.themeplayer.musicgoto",
+		"title": "Free Music - Unlimited Offline Music Download Free",
+		"weight": 190
 	}]
 }
