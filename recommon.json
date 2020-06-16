@@ -31,12 +31,6 @@
 		"weight": 190
 	}, {
 		"description": "This music player has unlimited pop songs, offline music. Download it now!",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljdHdpbi5tcDNtdXNpY3BhbHllci5vbmxpbmVtdXNpY19pY29uXzE1ODg0NjYzMDVfMDU4/icon.png?w=170&fakeurl=1",
-		"package_name": "com.musictwin.mp3musicpalyer.onlinemusic",
-		"title": "Free Music – Online Music – Unlimited Music Player",
-		"weight": 190
-	}, {
-		"description": "This music player has unlimited pop songs, offline music. Download it now!",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLm1wM3BsYXllci5tdXNpY2JveC5tdXNpY3RvX2ljb25fMTU4NDY4OTQwNl8wNDg/icon.png?w=170&fakeurl=1",
 		"package_name": "com.musicplayer.mp3player.musicbox.musicto",
 		"title": "Free Music Player - Mp3 Player, Themes, Equalizer",
