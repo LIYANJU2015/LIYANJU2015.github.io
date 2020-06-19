@@ -14,6 +14,13 @@
 		"interstitial": true,
 		"weight": 190
 	}, {
+		"description": "helps you cut music, cut mp3 files and other formats. Download it now!",
+		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnBob25lYmVsbHMucmluZ3RvbmUucmluZ3RvbmVtYWtlcl9pY29uXzE1OTE0MDUzMDVfMDY0/icon.png?w=340&fakeurl=1",
+		"package_name": "com.phonebells.ringtone.ringtonemaker",
+		"title": "Ringtone Maker - Music Cutter & Mp3 Editor",
+		"interstitial": true,
+		"weight": 190
+	}, {
 		"description": "This music player has unlimited pop songs, offline music. Download it now!",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLnRoZW1lcGxheWVyLm11c2ljZ290b19pY29uXzE1ODk0MjE2ODVfMDUy/icon.png?w=340&fakeurl=1",
 		"package_name": "com.musicplayer.themeplayer.musicgoto",
