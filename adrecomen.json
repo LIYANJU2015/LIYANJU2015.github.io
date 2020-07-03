@@ -1,12 +1,12 @@
 {
-	"list": [ {
+	"list": [{
 		"description": "Best Music Player online Mp3 Player",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZm9yLm11c2ljb25saW5lLm1wM3BsYXllcl9pY29uXzE1ODg3MjYzNzNfMDY2/icon.png?w=340&fakeurl=1",
 		"package_name": "com.musicfor.musiconline.mp3player",
 		"title": "Free Music - Unlimited Online Music, Music Player",
 		"interstitial": true,
 		"weight": 190
-	},  {
+	}, {
 		"description": "This music player has unlimited pop songs, offline music. Download it now!",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLm1wM3BsYXllci5tdXNpY2JveC5tdXNpY3RvX2ljb25fMTU4NDY4OTQwNl8wNDg/icon.png?w=170&fakeurl=1",
 		"package_name": "com.musicplayer.mp3player.musicbox.musicto",
@@ -35,12 +35,26 @@
 		"interstitial": true,
 		"weight": 140
 	}, {
+		"description": "Free music download app, Mp3 music downloader free All song downloader",
+		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm5ld211c2ljLmRvd25sb2FkbXVzaWMubXVzaWNtcDNfaWNvbl8xNTkzMjIwMzk5XzAxMA/icon.png?w=340&fakeurl=1",
+		"package_name": "com.newmusic.downloadmusic.musicmp3",
+		"title": "Free Music - Download Mp3 Music & Music Downloader",
+		"interstitial": false,
+		"weight": 150
+	}, {
 		"description": "Free flashlight as bright as a torch Brightest LED & Bright Screen",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLmZsYXNobGlnaHQuc3VwZXJsZWQuZnJlZWZsYXNobGlnaHRfaWNvbl8xNTgzOTExNDM0XzAxMA/icon.png?w=340&fakeurl=1",
 		"package_name": "com.flashlight.superled.freeflashlight",
 		"title": "Free Flashlight - Brightest LED & Bright Screen",
 		"interstitial": true,
 		"weight": 140
+	}, {
+		"description": "Free music download app, Mp3 music downloader free All song downloader",
+		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnNwZWNtdXNpYy5tdXNpY2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5kb3dubG9hZGdvX2ljb25fMTU5Mjc4NzA5Ml8wMTQ/icon.png?w=340&fakeurl=1",
+		"package_name": "com.specmusic.musicdownloader.downloadmusic.downloadgo",
+		"title": "Free Music - Download Mp3 Music & Music Downloader",
+		"interstitial": false,
+		"weight": 150
 	}, {
 		"description": "YouTube Video Player is the best video app to play offline \u0026 online video",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnBsYXllci5zdXBlcnZpZGVvLmhkdmlkZW9wbGF5ZXIudG9vbHNfaWNvbl8xNTc3NjEwOTMzXzA0MQ/icon.png?w=170&fakeurl=1",
