@@ -7,6 +7,13 @@
 		"interstitial": true,
 		"weight": 190
 	}, {
+		"description": "Video Downloader for Tiktok is the easiest Video Downloader app",
+		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnRpa3Rvay5kb3dubG9hZHRpa3Rvay50aWt0b2tkb3dubG9hZGVyX2ljb25fMTU5NDg2MTExMl8wMDE/icon.png?w=340&fakeurl=1",
+		"package_name": "com.tiktok.downloadtiktok.tiktokdownloader",
+		"title": "Video Downloader for TikTok - No Watermark",
+		"interstitial": true,
+		"weight": 190
+	}, {
 		"description": "This music player has unlimited pop songs, offline music. Download it now!",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLm1wM3BsYXllci5tdXNpY2JveC5tdXNpY3RvX2ljb25fMTU4NDY4OTQwNl8wNDg/icon.png?w=170&fakeurl=1",
 		"package_name": "com.musicplayer.mp3player.musicbox.musicto",
