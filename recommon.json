@@ -12,6 +12,13 @@
 		"title": "Video Downloader for TikTok - No Watermark",
 		"weight": 190
 	}, {
+		"description": "Video Downloader for Facebook is the easiest Video Downloader app",
+		"icon_url": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rdmlkZW9kb3dubG9hZGVyLmRvd25sb2FkdmlkZW8uZmFjZWJvb2tkb3dubG9hZF9pY29uXzE1OTYyNDM5NDFfMDA1/icon.png?w=340&fakeurl=1",
+		"package_name": "com.facebookvideodownloader.downloadvideo.facebookdownload",
+		"title": "Video Downloader for Facebook - FB Video Download",
+		"interstitial": true,
+		"weight": 190
+	}, {
 		"description": "helps you cut music, cut mp3 files and other formats. Download it now!",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnBob25lYmVsbHMucmluZ3RvbmUucmluZ3RvbmVtYWtlcl9pY29uXzE1OTE0MDUzMDVfMDY0/icon.png?w=340&fakeurl=1",
 		"package_name": "com.phonebells.ringtone.ringtonemaker",
