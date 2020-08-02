@@ -12,6 +12,13 @@
 		"title": "Free Flashlight - Brightest LED & Bright Screen",
 		"weight": 140
 	}, {
+		"description": "Video Downloader for Facebook is the easiest Video Downloader app",
+		"icon_url": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rdmlkZW9kb3dubG9hZGVyLmRvd25sb2FkdmlkZW8uZmFjZWJvb2tkb3dubG9hZF9pY29uXzE1OTYyNDM5NDFfMDA1/icon.png?w=340&fakeurl=1",
+		"package_name": "com.facebookvideodownloader.downloadvideo.facebookdownload",
+		"title": "Video Downloader for Facebook - FB Video Download",
+		"interstitial": true,
+		"weight": 190
+	}, {
 		"description": "YouTube Video Player is the best video app to play offline \u0026 online video",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnBsYXllci5zdXBlcnZpZGVvLmhkdmlkZW9wbGF5ZXIudG9vbHNfaWNvbl8xNTc3NjEwOTMzXzA0MQ/icon.png?w=170&fakeurl=1",
 		"package_name": "com.player.supervideo.hdvideoplayer.tools",
