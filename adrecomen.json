@@ -13,7 +13,14 @@
 		"title": "Downloader for Instagram",
 		"interstitial": true,
 		"weight": 190
-	},{
+	}, {
+		"description": "Photo & Video Downloader for Twitter is the easiest Downloader app",
+		"icon_url": "https://image.winudf.com/v2/image1/dHdpdHRlcnZpZGVvZG93bmxvYWRlci5zYXZldHdpdHRlcmdpZi50d2l0dGVydmlkZW9zYXZlci50d2l0dGVyZG93bmxvYWRfaWNvbl8xNTk4OTIxMzU2XzAzNQ/icon.png?w=170&fakeurl=1",
+		"package_name": "twittervideodownloader.savetwittergif.twittervideosaver.twitterdownload",
+		"title": "Download Twitter Videos - GIF & Tweet Downloader",
+		"interstitial": true,
+		"weight": 190
+	}, {
 		"description": "Video Downloader for Tiktok is the easiest Video Downloader app",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnRpa3Rvay5kb3dubG9hZHRpa3Rvay50aWt0b2tkb3dubG9hZGVyX2ljb25fMTU5NDg2MTExMl8wMDE/icon.png?w=340&fakeurl=1",
 		"package_name": "com.tiktok.downloadtiktok.tiktokdownloader",
