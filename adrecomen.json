@@ -21,13 +21,6 @@
 		"interstitial": true,
 		"weight": 190
 	}, {
-		"description": "Video Downloader for Tiktok is the easiest Video Downloader app",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLnRpa3Rvay5kb3dubG9hZHRpa3Rvay50aWt0b2tkb3dubG9hZGVyX2ljb25fMTU5NDg2MTExMl8wMDE/icon.png?w=340&fakeurl=1",
-		"package_name": "com.tiktok.downloadtiktok.tiktokdownloader",
-		"title": "Video Downloader for TikTok - No Watermark",
-		"interstitial": true,
-		"weight": 190
-	}, {
 		"description": "Video Downloader for Facebook is the easiest Video Downloader app",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rdmlkZW9kb3dubG9hZGVyLmRvd25sb2FkdmlkZW8uZmFjZWJvb2tkb3dubG9hZF9pY29uXzE1OTYyNDM5NDFfMDA1/icon.png?w=340&fakeurl=1",
 		"package_name": "com.facebookvideodownloader.downloadvideo.facebookdownload",
