@@ -1,11 +1,5 @@
 {
-	"list": [ {
-		"description": "Easily browse and play your favorite music and Equalizer, Lyrics, Theme & much more",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm1wM211c2ljLm11c2ljcGxheWVyLmF1ZGlvcGxheWVyLm11c2ljc3VwZXJfaWNvbl8xNTgzOTExMjExXzAzMA/icon.png?w=170&fakeurl=1",
-		"package_name": "com.mp3music.musicplayer.audioplayer.musicsuper",
-		"title": "Music Player – MP3 Player & Bass Booster",
-		"weight": 140
-	}, {
+	"list": [  {
 		"description": "Photo & Video Downloader for Twitter is the easiest Downloader app",
 		"icon_url": "https://image.winudf.com/v2/image1/dHdpdHRlcnZpZGVvZG93bmxvYWRlci5zYXZldHdpdHRlcmdpZi50d2l0dGVydmlkZW9zYXZlci50d2l0dGVyZG93bmxvYWRfaWNvbl8xNTk4OTIxMzU2XzAzNQ/icon.png?w=170&fakeurl=1",
 		"package_name": "twittervideodownloader.savetwittergif.twittervideosaver.twitterdownload",
@@ -44,13 +38,7 @@
 		"package_name": "com.player.supervideo.hdvideoplayer.tools",
 		"title": "Download YouTube Video Player",
 		"weight": 90
-	}, {
-		"description": "Best Music Player online Mp3 Player",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZm9yLm11c2ljb25saW5lLm1wM3BsYXllcl9pY29uXzE1ODg3MjYzNzNfMDY2/icon.png?w=340&fakeurl=1",
-		"package_name": "com.musicfor.musiconline.mp3player",
-		"title": "Free Music - Unlimited Online Music, Music Player",
-		"weight": 190
-	}, {
+	},  {
 		"description": "This music player has unlimited pop songs, offline music. Download it now!",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLm1wM3BsYXllci5tdXNpY2JveC5tdXNpY3RvX2ljb25fMTU4NDY4OTQwNl8wNDg/icon.png?w=170&fakeurl=1",
 		"package_name": "com.musicplayer.mp3player.musicbox.musicto",
