@@ -1,12 +1,5 @@
 {
-	"list": [{
-		"description": "Best Music Player online Mp3 Player",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZm9yLm11c2ljb25saW5lLm1wM3BsYXllcl9pY29uXzE1ODg3MjYzNzNfMDY2/icon.png?w=340&fakeurl=1",
-		"package_name": "com.musicfor.musiconline.mp3player",
-		"title": "Free Music - Unlimited Online Music, Music Player",
-		"interstitial": true,
-		"weight": 190
-	}, {
+	"list": [ {
 		"description": "Photo & Video Downloader for Instagram is the easiest Downloader app",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLmluc3RhZ3JhbS5zdG9yeXNhdmVyLmluc3RhZ3JhbWRvd25sb2FkX2ljb25fMTU5Nzk3MjAxMF8wOTc/icon.png?w=340&fakeurl=1",
 		"package_name": "com.instagram.storysaver.instagramdownload",
@@ -49,13 +42,6 @@
 		"interstitial": true,
 		"weight": 190
 	}, {
-		"description": "Easily browse and play your favorite music and Equalizer, Lyrics, Theme & much more",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm1wM211c2ljLm11c2ljcGxheWVyLmF1ZGlvcGxheWVyLm11c2ljc3VwZXJfaWNvbl8xNTgzOTExMjExXzAzMA/icon.png?w=170&fakeurl=1",
-		"package_name": "com.mp3music.musicplayer.audioplayer.musicsuper",
-		"title": "Music Player – MP3 Player & Bass Booster",
-		"interstitial": true,
-		"weight": 140
-	}, {
 		"description": "Free music download app, Mp3 music downloader free All song downloader",
 		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm5ld211c2ljLmRvd25sb2FkbXVzaWMubXVzaWNtcDNfaWNvbl8xNTkzMjIwMzk5XzAxMA/icon.png?w=340&fakeurl=1",
 		"package_name": "com.newmusic.downloadmusic.musicmp3",
@@ -83,12 +69,5 @@
 		"title": "Download YouTube Video Player",
 		"interstitial": true,
 		"weight": 90
-	}, {
-		"description": "Free music download app, Mp3 music downloader free All song downloader",
-		"icon_url": "https://image.winudf.com/v2/image1/Y29tLm15ZG93bmxvYWRtcDMudHdvbXVzaWNkb3dubG9hZGVyLm1wM2Rvd25sb2FkZXJfaWNvbl8xNTg3OTcwMjQyXzA5MQ/icon.png?w=340&fakeurl=1",
-		"package_name": "com.mydownloadmp3.twomusicdownloader.mp3downloader",
-		"title": "Music Downloader - Free Online Music Download",
-		"interstitial": false,
-		"weight": 150
 	}]
 }
